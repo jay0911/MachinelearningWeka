@@ -1,0 +1,7 @@
+@RELATION convo
+
+@ATTRIBUTE word	REAL
+@ATTRIBUTE class {1,2,3,4,5}
+
+@DATA
+7,1
